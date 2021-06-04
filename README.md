@@ -21,7 +21,7 @@
  ### Disciplina de Programação Avançada
  
  ###### *Professor(a)*
-  :books: [Vanessa Araújo](git dela aqui) :books:
+  :books: [Vanessa Araújo](https://github.com/AntoniaVanessa) :books:
   
 
 
