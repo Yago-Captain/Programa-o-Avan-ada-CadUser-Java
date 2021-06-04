@@ -6,7 +6,7 @@
 <div align="center">
   <h2>Programação Avançada - Cadastro de Usuário</h2>
   
-  ![image](https://user-images.githubusercontent.com/61589386/117751503-9a5ab980-b1eb-11eb-8e98-8f2b58a28f46.png) 
+  ![image](https://github.com/Yago-Captain/Programa-o-Avan-ada-CadUser-Java/blob/main/programa%C3%A7%C3%A3o.jpg) 
   
   ### [FACIMP - Faculdade de Imperatriz](https://github.com/NT-Facimp)
 </div>
