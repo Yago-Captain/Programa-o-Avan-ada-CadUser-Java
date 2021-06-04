@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>PROGRAMAÇÃO AVANÇADA</h2>
+  <h2>PROGRAMAÇÃO AVANÇADA: Projeto de Conclusão da Disciplina</h2>
   JAVA Web/ CadUser
 </div>
 
