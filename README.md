@@ -37,4 +37,4 @@
 <h1> Topico </h1>
 </div> 
 
-Sumario [clique aqui](https://github.com/tllystroller/Engenharia-de-Software-Gang-of-Six/wiki/Engenharia-de-software)
+Sumario [clique aqui](LINK DA PAGINA QUE SERÁ CRIADA)
