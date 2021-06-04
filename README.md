@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <h2>Programação Avançada - Cadastro de Usuário</h2>
+  <h2>Cadastro de Usuário</h2>
   
   ![image](https://github.com/Yago-Captain/Programa-o-Avan-ada-CadUser-Java/blob/main/programa%C3%A7%C3%A3o.jpg) 
   
