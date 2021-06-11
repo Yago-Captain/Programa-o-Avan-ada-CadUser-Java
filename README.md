@@ -29,8 +29,8 @@
 
 
   1. [Yago Alves ](https://github.com/Yago-Captain) 😎
-  2. [Guilheme Marinho](https://github.com/GuilherAndrad)👨‍💼
-  3. [Samuel da Silva](https://github.com/Smk3Br)👨‍💼
+  2. [Guilheme Marinho](https://github.com/GuilherAndrad)🤠
+  3. [Samuel da Silva](https://github.com/Smk3Br)🙃
   
   
 <div align="center">
